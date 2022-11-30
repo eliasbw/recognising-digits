@@ -12,6 +12,6 @@ For example, this image was drawn in the GUI.
 And this is what the network recognised!
 
 
-<img src="./img/gui_3.png" a="What the model found" height="300"/>
+<img src="./img/gui_3_found.png" a="What the model found" height="300"/>
 
 

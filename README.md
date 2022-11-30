@@ -6,12 +6,12 @@ The package enables us to easily draw images that the Hopfield model will try to
 
 For example, this image was drawn in the GUI.
 
-<img src="./img/gui_3.png" a="My attempt at a three" height="150"/>
+<img src="./img/gui_3.png" a="My attempt at a three" height="300"/>
 
 
 And this is what the network recognised!
 
 
-<img src="./img/gui_3.png" a="What the model found" height="150"/>
+<img src="./img/gui_3.png" a="What the model found" height="300"/>
 
 

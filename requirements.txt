@@ -2,3 +2,4 @@ numpy
 numba
 tk
 matplotlib
+numba
